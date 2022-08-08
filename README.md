@@ -1,2 +1,2 @@
 # FP-PBO
-a humble repository containing my final project for Object Oriented Programming subject.
+a humble repository of my final project for Object Oriented Programming subject.
